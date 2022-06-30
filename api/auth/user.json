@@ -1,0 +1,77 @@
+[
+    {
+      "fullname": "Guest",
+      "username": "guest",
+      "password": "guest",
+      "imgUrl": "https://res.cloudinary.com/bbarak94/image/upload/v1653409951/guest_he90su.jpg",
+      "mentions": [
+        {
+          "id": "m101",
+          "boardId": "b101",
+          "taskId": "t101"
+        },
+        {
+          "id": "m102",
+          "boardId": "b102",
+          "taskId": "t102"
+        }
+      ]
+    },
+    {
+      "fullname": "Barak Braun",
+      "username": "barak",
+      "password": "barak",
+      "imgUrl": "https://res.cloudinary.com/bbarak94/image/upload/v1653409951/barak_v05fhi.jpg",
+      "mentions": [
+        {
+          "id": "m101",
+          "boardId": "b101",
+          "taskId": "t101"
+        },
+        {
+          "id": "m102",
+          "boardId": "b102",
+          "taskId": "t102"
+        }
+      ]
+    },
+    {
+      "fullname": "Guy Elizarov",
+      "username": "guy",
+      "password": "guy",
+      "imgUrl": "https://res.cloudinary.com/bbarak94/image/upload/v1653409951/guy_r35jqz.jpg",
+      "mentions": [
+        {
+          "id": "m102",
+          "boardId": "b102",
+          "taskId": "t102"
+        }
+      ]
+    },
+    {
+      "fullname": "Itai Rotstein",
+      "username": "itai",
+      "password": "itai",
+      "imgUrl": "https://res.cloudinary.com/bbarak94/image/upload/v1653409951/itai_thvoqr.jpg",
+      "mentions": [
+        {
+          "id": "m103",
+          "boardId": "b103",
+          "taskId": "t103"
+        }
+      ]
+    },
+    {
+      "fullname": "Tommy Irmia",
+      "username": "tommy",
+      "password": "tommy",
+      "imgUrl": "https://res.cloudinary.com/bbarak94/image/upload/v1653410100/tommy_rnax4n.jpg",
+      "mentions": [
+        {
+          "id": "m104",
+          "boardId": "b104",
+          "taskId": "t104"
+        }
+      ]
+    }
+  ]
